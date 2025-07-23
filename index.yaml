@@ -3,12 +3,12 @@ entries:
   book-server:
   - apiVersion: v1
     appVersion: latest
-    created: "2025-07-23T11:43:08.316508262+06:00"
+    created: "2025-07-23T13:20:34.681576684+06:00"
     description: Book Server API
-    digest: fdbc1524508c9d8db39d4fda75baeb19ec929f66b70f7eee2a6f048095c7e0d5
+    digest: d2b99a8db724fdf94e62762bfaee5b7a15c736c302051090590d67bd3b803528
     name: book-server
     type: application
     urls:
-    - https://al-masood.io/my-helm-charts/book-server-0.1.0.tgz
+    - https://al-masood.github.io/helm-charts/book-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-23T11:43:08.316249247+06:00"
+generated: "2025-07-23T13:20:34.681315721+06:00"
